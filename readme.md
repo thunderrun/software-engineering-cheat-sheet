@@ -4,9 +4,18 @@
 
 - Communication
 - Planning
+    - estimation
+    - scheduling
+    - risk analysis
 - Modeling
+    - analysis
+    - design
 - Construction
+    - code
+    - test
 - Deployment
+    - delivery
+    - feedback
 
 ## Umbrella Activities
 
@@ -35,5 +44,14 @@
 - Be open to the future
 - Plan ahead for reuse
 - Think!
+
+## Personal Software Process
+
+- Planning
+- High-level design
+- High-level design review
+- Development
+- Postmortem
+
 
 
