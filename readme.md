@@ -86,3 +86,24 @@
 - heightened sense of fairness
 - attention to detail
 
+## Principles That Guide Process
+
+- Be agile
+- Focus on quality at every step
+- Be ready to adapt
+- Build an effective team
+- Establish mechanisms of communication and coordination
+- Manage change
+- Assess risk
+- Create work products that provide value for others
+
+## Principles That Guide Practice
+
+- Divide and conquer
+- Understand the use of abstraction
+- Strive for consistency
+- Focus on the transfer of information
+- Build software that exhibits effective modularity
+- Look for patterns
+- When possible, represent the problem and its solution from a number of different 
+- Remember that someone will mantain the software
