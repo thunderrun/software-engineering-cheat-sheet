@@ -107,3 +107,42 @@
 - Look for patterns
 - When possible, represent the problem and its solution from a number of different 
 - Remember that someone will mantain the software
+
+## Communication Principles
+
+- Listen
+- Prepare before you communicate
+- Someone should facilitate the activity
+- Face-to-face communication is best
+- Take notes and document desicions
+- Strive for collaboration
+- Stay focused; modularize your discussion
+- If something is unclear, draw a picture
+- (a) Once you agree to someone, move on. (b) If you can't agree to something, move on. (c) If a feature or function is unclear and cannot be clarified at the moment, move on.
+- Negotitation is not a contest or a game. It works best when both parties win.
+
+## Planning Principles
+
+- Understand the scope of the project
+- Involve stakeholders in the planning activity
+- Recognize that planning is iterative
+- Estimate based on what you know
+- Consider risk as you define the plan
+- Be realistic
+- Adjust granularity as you define the plan
+- Define how you intend to ensure quality
+- Describe how you intend to accommodate change
+- Track the plan frequently and make adjustments as required 
+
+## Modeling Principles
+
+- The primary goal of the software team is to build software, not create models
+- Traval light--don't create more models than you need
+- Strive to produce the simplest model that will describe the problem or the software
+- Build models in a way that makes them amenable to change
+- Be able to state an explicit purpose for each model that is created
+- Adapt the models you develop to the system at hand
+- Try to build useful models, but forgot about buiding perfect models
+- Don't become dogmatic about the syntax of the model. If it communicates content successfully, representation is secondary
+- If you instincts tell you a model isn't right even though it seems okay on paper, you peobably have reason to be concerned
+- Get feedback as soon as you can
