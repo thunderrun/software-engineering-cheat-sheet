@@ -142,7 +142,43 @@
 - Build models in a way that makes them amenable to change
 - Be able to state an explicit purpose for each model that is created
 - Adapt the models you develop to the system at hand
-- Try to build useful models, but forgot about buiding perfect models
+- Try to build useful models, but forgot about building perfect models
 - Don't become dogmatic about the syntax of the model. If it communicates content successfully, representation is secondary
 - If you instincts tell you a model isn't right even though it seems okay on paper, you peobably have reason to be concerned
 - Get feedback as soon as you can
+
+## Requirements Modeling Principles
+
+- The information domain of a problem must be represented and understood
+- The functions that the software performs must be defined
+- The behavior of the software(as a consequence of external events)must be represented
+- The models that depict information, function, and behavior must be partitioned in a manner that uncover detail in a payered(or hierarchical) fashion
+- The analysis task should move from essential information toward implementation detail
+
+## Design Modeling Principles
+
+- Design should be traceable to the requirements model
+- Always consider the architecture of the system to be built
+- Design of data is as important as design of processing functions
+- Interfaces(both internal and external)must be designed with care
+- User interface design should be tuned to the needs of the end user. However, in every case, it should stress ease of use
+- Component-level design should be functionally independent
+- Components should be loosely coupled to one another and to the external environment
+- Design representsations(models) should be easily understandable
+- The design should be developed iteratively
+- Creation of a design model does not preclude an alige approach
+
+## Living Modeling Principles
+
+- Stakeholder-centric models should target specific stakeholders and their tasks
+- Models and code should be closely coupled
+- Bidirectional information flow should be established between models and code
+- A common system view should be created
+- The imformation in the model must be presistent to allow tracking of system changes
+- Information consistency across all levels of the model must be verfied
+- Each model element has assigned stake holder rights and responsibilities
+- The states of virous model elements should be represented
+
+## Construction Principles
+
+-
