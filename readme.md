@@ -147,7 +147,7 @@
 - If you instincts tell you a model isn't right even though it seems okay on paper, you peobably have reason to be concerned
 - Get feedback as soon as you can
 
-## Requirements Modeling Principles
+### Requirements Modeling Principles
 
 - The information domain of a problem must be represented and understood
 - The functions that the software performs must be defined
@@ -155,7 +155,7 @@
 - The models that depict information, function, and behavior must be partitioned in a manner that uncover detail in a payered(or hierarchical) fashion
 - The analysis task should move from essential information toward implementation detail
 
-## Design Modeling Principles
+### Design Modeling Principles
 
 - Design should be traceable to the requirements model
 - Always consider the architecture of the system to be built
@@ -168,7 +168,7 @@
 - The design should be developed iteratively
 - Creation of a design model does not preclude an alige approach
 
-## Living Modeling Principles
+### Living Modeling Principles
 
 - Stakeholder-centric models should target specific stakeholders and their tasks
 - Models and code should be closely coupled
@@ -181,4 +181,51 @@
 
 ## Construction Principles
 
--
+### Preparation Principles
+Before you write one line of code, be sure you
+
+- Understand the problem you are trying to solve
+- Understand the basic design principles and concepts
+- Pick a programming language that meets the needs of the software to be built and the environment in which it will operate
+- Select a prigramming environment that provides tools that will make your work easier
+- Create a set of unit tests that will be applied once the component you code is complete
+
+### Coding Principles
+As you begin writing code, be sure you
+
+- Constrain your algorithms by following structured programming practive
+- Consider the use of pair programming
+- Select data structure that will meet the needs of the design
+- Understand the software architecture and create interface that are consistent with it
+- Keep conditional logic as simple as possible
+- Create nested loops in a way that makes them easily testable
+- Select meaningful variable names and follow other local coding standards
+- Write code that is self-documenting
+- Create a visual layout(e.g., indentation and blank lines)that aids understanding
+
+### Validation Principles
+After you have completed your first coding pass, be sure you
+
+- Conduct a code walkthrough when appropriate
+- Perform unit tests and correct errors you have uncovered
+- Refactor the code
+
+## Testing Principles
+
+- All tests should be traceable to customer requirements
+- Tets should be planned long before testing begins
+- The Pareto principle applies to software testing
+- Testing should begin "in the small" and progress toward testing "in the large"
+- Apply to each module in the system a testing effort commensurate with its expected fault density
+- Static testing techniques can yield high results
+- Track defects and look for patterns in defects uncovered by testing
+- Include test cases that demonstrate software is behaving correctly
+
+## Deployment Principles
+
+- Customer expectations for the software must be managed
+- A complete delivery package should be assemabled and tested 
+- A suppoer regime must be established before the software is delivered
+- Appropriate instructional materials must be provided to end users
+- Buggy software should be fixed first, delivered later
+
