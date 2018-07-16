@@ -118,7 +118,10 @@
 - Strive for collaboration
 - Stay focused; modularize your discussion
 - If something is unclear, draw a picture
-- (a) Once you agree to someone, move on. (b) If you can't agree to something, move on. (c) If a feature or function is unclear and cannot be clarified at the moment, move on.
+- Move on when
+    - Once you agree to someone
+    - If you can't agree to something
+    - If a feature or function is unclear and cannot be clarified at the moment
 - Negotitation is not a contest or a game. It works best when both parties win.
 
 ## Planning Principles
