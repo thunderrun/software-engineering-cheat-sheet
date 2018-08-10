@@ -232,3 +232,11 @@ After you have completed your first coding pass, be sure you
 - Appropriate instructional materials must be provided to end users
 - Buggy software should be fixed first, delivered later
 
+## Analysis Rules of Thumb
+
+- The model should focus on requirements that are visible within the problem or business domain. The level of abstraction should be relatively high.
+- Each element of the requirements model should add to an overall understanding of software requirements and provide insight into the information domain, function, and behavior of the system.
+- Delay consideration of infrastructure and other nonfunctional models until design.
+- Minimize coupling throughout the system.
+- Be certain that the requirements model provides value to all stakeholders.
+- Keep the model as simple as it can be.
