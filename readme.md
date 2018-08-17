@@ -240,3 +240,4 @@ After you have completed your first coding pass, be sure you
 - Minimize coupling throughout the system.
 - Be certain that the requirements model provides value to all stakeholders.
 - Keep the model as simple as it can be.
+
