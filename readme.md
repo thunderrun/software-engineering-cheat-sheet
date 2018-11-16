@@ -241,3 +241,13 @@ After you have completed your first coding pass, be sure you
 - Be certain that the requirements model provides value to all stakeholders.
 - Keep the model as simple as it can be.
 
+## Class-Responsibility-Collaborator Modeling
+
+- Classes
+- Responsibilities
+    - System intelligence should be distributed across classes to best address the need of the problem
+    - Each responsibility should be stated as generally as possible
+    - Information and the behavior related to it should reside within the same class
+    - Information about one thing should be localized with a single class, not distributed across mutiple classes
+    - Responsibilites should be shared among related classes, when appropriate
+- Collaborations
