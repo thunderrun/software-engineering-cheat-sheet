@@ -251,3 +251,31 @@ After you have completed your first coding pass, be sure you
     - Information about one thing should be localized with a single class, not distributed across mutiple classes
     - Responsibilites should be shared among related classes, when appropriate
 - Collaborations
+
+## Requirements Modeling
+
+- Content model
+- Interaction model
+- Functional model
+- Navigation model
+- Configuration model
+
+## Quality Attributes FURPS
+
+- Functionality
+- Usability
+- Reliability
+- Performance
+- Supportability
+
+## Well-formed design class characteristics
+
+- Complete and sufficient
+- Primitiveness
+- High cohesion
+- Low coupling
+
+
+
+
+
