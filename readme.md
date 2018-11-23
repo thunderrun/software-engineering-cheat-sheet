@@ -268,14 +268,20 @@ After you have completed your first coding pass, be sure you
 - Performance
 - Supportability
 
-## Well-formed design class characteristics
+## Characteristics of well-formed design class 
 
 - Complete and sufficient
 - Primitiveness
 - High cohesion
 - Low coupling
 
+## Taxonomy of Architectural Stytles
 
+- Data-Centered Architectures
+- Data-Flow Architectures
+- Call and Return Architectures
+- Object-Oriented Architectures
+- Layered Architectures
 
 
 
