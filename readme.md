@@ -283,5 +283,10 @@ After you have completed your first coding pass, be sure you
 - Object-Oriented Architectures
 - Layered Architectures
 
+## Architectural Considerations
 
-
+- Economy
+- Visibility
+- Spacing
+- Symmetry
+- Emergence
