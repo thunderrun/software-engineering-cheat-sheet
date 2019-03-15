@@ -290,3 +290,17 @@ After you have completed your first coding pass, be sure you
 - Spacing
 - Symmetry
 - Emergence
+
+## Conducting Component-Level Design
+
+- Step1. Indentity all design classes that correspond to the problem domain
+- Step2. Undetify all design classes that correspond to the infrastructure domain
+- Step3. Elaborate all design classes that are not acquired as resuable components
+- Step3a. Specify message details when classes or components collaborate
+- Step3b. Indentify appropriate interfaces for each component
+- Step3c. Elaborate attributes and define data types and data structures required to implement them
+- Step3d. Describe processing flow within each operation in detail
+- Step4. Describe persistent data sources (databases and files) and identity the classes required to manage them
+- Step5. Develop and elaborate behaviroal representations for a class or component
+- Step6. Elaborate deployment diagrams to provide additional implementation detail
+- Step7. Refactor every component-level design representation and always consider alternatives
