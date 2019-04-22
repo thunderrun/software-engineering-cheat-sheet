@@ -304,3 +304,23 @@ After you have completed your first coding pass, be sure you
 - Step5. Develop and elaborate behaviroal representations for a class or component
 - Step6. Elaborate deployment diagrams to provide additional implementation detail
 - Step7. Refactor every component-level design representation and always consider alternatives
+
+## The Golden Rules of User Interface Design
+
+- Place the User in Control
+  - Define interaction modes in a way that does not force a user into unecessary or undesired actions
+  - Provide for flexible interactions
+  - Allow user interaction to be interruptible and undoable
+  - Streamline interaction as skill levels advance and allow the interaction to be customized
+  - Hide technical internals from the casual user
+  - Design for direct interaction with objects that appear on the screen
+- Reduce the User's Memory Load
+  - Reduce demand on short-term memory
+  - Establish meaningful defaults
+  - Define shortcuts that intuitive
+  - The visual layout of the interface should be based on a real-world metaphor
+  - Disclose information in a progressive fashion
+- Make the Interface Consisitent
+  - Allow the user to put the current task into a meaningful context
+  - Maintain consistency across a complete product line
+  - If past interactive models have created user expections, do not make changes unless there is a compelling reason to do so
