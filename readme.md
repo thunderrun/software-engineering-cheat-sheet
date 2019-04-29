@@ -1,4 +1,4 @@
-# Software Engineering
+# Software Engineering A Practitioner's Approach
 
 ## The Process Framework
 
@@ -324,3 +324,51 @@ After you have completed your first coding pass, be sure you
   - Allow the user to put the current task into a meaningful context
   - Maintain consistency across a complete product line
   - If past interactive models have created user expections, do not make changes unless there is a compelling reason to do so
+
+## Design Issues
+
+- Response Time
+- Help Facilities
+- Error Handling
+- Menu and Command Labeling
+- Application Accessibility
+- Internationlization
+
+## Interface Design Principles
+
+- Principles that lead to better usability
+  - Anticipation
+  - Communication
+  - Consistency
+  - Controlled Autonomy
+  - Efficiency
+  - Flexibility
+  - Focus
+  - Human Interface Objects
+  - Latency Reduction
+  - Learnability
+  - Metaphors
+  - Readability
+  - Track State
+  - Visible Navigation
+- Dont's
+  - Don't force the user to read voluminous amounts of text, particularly when the text explains the operation of the WebApp or assists in navigation
+  - Don't make users scroll unless it is absolutely unavoidable
+  - Don't rely on browser functions to assist in navigation
+  - Don't allow aesthetics to supersede functionality
+  - Dont' force the user to search the display to dertermine how to link to other content or services
+
+## Interface Design Workflow for Web and Mobile Apps
+
+- Review information contained in the requirements model and refine as required
+- Develop a rough sketch of the WebApp interface layout
+- Map user objectives into specific interface actions
+- Define a set of user tasks that are associated with each action
+- Storyboard screen images for each interface action
+- Refine interface layout and toryboards using input from aesthetic design
+- Indetify user interface objects that are required to implement the interface
+- Develop a procedural representation of the user's interface with the interface
+- Develop a behanvioral representation of the interface
+- Describe the interface layout for each state
+- Refine and review the interface design model
+
