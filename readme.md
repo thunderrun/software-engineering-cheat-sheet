@@ -372,3 +372,14 @@ After you have completed your first coding pass, be sure you
 - Describe the interface layout for each state
 - Refine and review the interface design model
 
+## Design Tasks
+
+- Examine the requirements model and develop a problem hierarchy
+- Determine if a reliable pattern language has been developed for the problem domain
+- Beginning with a board problem, determine whether one or more architectural patterns are avaliable for it
+- Using the collaborations provided for the architectural patterns, examine subsystem or component-level problems and search for appropriate patterns to address them
+- Repeat steps 2 through 4 until all broad problems have been addressed
+- If user interface design problems have been isolated (this is almost always the case), search the many user interface design pattern repositories for apporiate patterns
+- Regardless of its level of abstraction, if a pattern language and/or patterns repository or individual pattern shows promise, compare the problem to be solved against the existing pattern(s) presented
+- Be certain to refine the design as it is derived from patterns using design quality criteria as a guide
+
