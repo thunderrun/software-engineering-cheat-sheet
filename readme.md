@@ -393,6 +393,11 @@ After you have completed your first coding pass, be sure you
 
 ## WebApp Design Quality
 
+- Usability
+- Functionality
+- Reliability
+- Efficiency
+- Maintainability
 - Security
 - Availability
 - Scalability
@@ -407,3 +412,4 @@ After you have completed your first coding pass, be sure you
 - Navigability
 - Visual Appeal
 - Compatibility
+  
