@@ -383,3 +383,27 @@ After you have completed your first coding pass, be sure you
 - Regardless of its level of abstraction, if a pattern language and/or patterns repository or individual pattern shows promise, compare the problem to be solved against the existing pattern(s) presented
 - Be certain to refine the design as it is derived from patterns using design quality criteria as a guide
 
+## Design Focus
+
+- Information architecture patterns
+- Navigation patterns
+- Interaction patterns
+- Presentation patterns
+- Functional patterns
+
+## WebApp Design Quality
+
+- Security
+- Availability
+- Scalability
+- Time-to-Market
+
+## Design Goals
+
+- Simplicity
+- Consistency
+- Indentity
+- Robustness
+- Navigability
+- Visual Appeal
+- Compatibility
