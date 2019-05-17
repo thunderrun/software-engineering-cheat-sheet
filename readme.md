@@ -413,3 +413,25 @@ After you have completed your first coding pass, be sure you
 - Visual Appeal
 - Compatibility
   
+## Layout Guidelines
+
+- Don't be afraid of open space
+- Emphasize content
+- Organize layout elements from top left to bottom right
+- Group navigation, content, and function geographically within the page
+- Don't extend your real estate with the scrolling bar
+- Consider resolution and browser window size when designing layout
+
+## Mobile-Apps Technical Considerations
+
+- Multiple hardware and software platforms
+- Many development frameworks and programming languages
+- Many app stores with different rules and tools
+- Very short development cycles
+- UI limitations and complexities of iteraction with sensors and cameras
+- Effective use of content
+- Power management
+- Security and privacy models and policies
+- Computational and storage limitions
+- Applications that depend on external services
+- Testing complexity
