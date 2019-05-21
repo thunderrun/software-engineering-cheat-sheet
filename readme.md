@@ -467,3 +467,13 @@ After you have completed your first coding pass, be sure you
 - End-to-end mobile application development
 - Graphical user interface builders
 
+## Gravin's Quality Dimensions
+
+- Performance Quality
+- Feature quality
+- Reliability
+- Conformance
+- Durability
+- Serviceability
+- Aesthetics
+- Perception
