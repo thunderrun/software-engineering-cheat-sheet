@@ -435,3 +435,35 @@ After you have completed your first coding pass, be sure you
 - Computational and storage limitions
 - Applications that depend on external services
 - Testing complexity
+
+## MobileApps Spiral Engineering Process
+
+- Formulation
+- Planning
+- Analysis
+- Engineering
+- Implementation and Testing
+- User Evaluation
+
+## MobileApp Design - Best Practices
+
+- Indentify your audience
+- Design for context of use
+- There is a fine line between simplicty and laziness
+- Use the platform as an advantage
+- Make scrollbars and selection highlighting more salient
+- Increase discoverability of advanced functionality
+- Use clear and consistent labels
+- Clever icons should never be developed at the expense of users understanding
+- Support user expections for personalization
+- Long scrolling forms trump multiple screens on mobile devices
+
+## Mobile Interactive Development Environments(MIDEs) Criteria
+
+- General productivity features
+- Third-party SDK integration
+- Post-compilation tools
+- Over-the-air deployment support
+- End-to-end mobile application development
+- Graphical user interface builders
+
