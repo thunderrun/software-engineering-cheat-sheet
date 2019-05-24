@@ -477,3 +477,30 @@ After you have completed your first coding pass, be sure you
 - Serviceability
 - Aesthetics
 - Perception
+
+## McCall's software quality factors
+
+- Product Operation
+  - Correctness
+  - Reliability
+  - Efficiency
+  - Integrity
+  - Usability
+- Product Revision
+  - Maintainability
+  - Flexibility
+  - Testability
+- Product Transition
+  - Portability
+  - Reusability
+  - Interoperability
+
+## ISO 9126 Quality Factors
+
+- Functionality
+- Reliability
+- Usability
+- Efficiency
+- Maintainability
+- Portability
+
